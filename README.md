@@ -1,10 +1,12 @@
 <h1 align="center" id="head"><b>DOCKER REPOSITORY<b></h1>
 
-<p align="center"><b>STUDY ABOUT DOCKER AND ITS APPLICATIONS</b><p>
+<p align="center"><b>STUDY ABOUT DOCKER AND ITS APPLICATIONS</b></p>
 
 <br>
 
-<p align="justify">&emsp; Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p align="justify">&emsp; Docker is an open-source platform used to build, ship, and run applications within containers. Containers are lightweight, portable, and self-contained environments that can run applications on any platform or operating system without requiring additional setup or configuration.</p>
+<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p>
+<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p>
 <br>
 <br>
 <br>
