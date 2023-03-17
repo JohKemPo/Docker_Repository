@@ -1,7 +1,12 @@
+<div align="center"><image src="https://user-images.githubusercontent.com/74382074/225942034-7263a731-9833-40a7-aec1-a8b42de01948.png" width="220px"></image></div>
+
+
 <h1 align="center" id="head"><b>DOCKER REPOSITORY<b></h1>
 
 <p align="center"><b>STUDY ABOUT DOCKER AND ITS APPLICATIONS</b></p>
 
+<br>
+<br>
 <br>
 
 <p align="justify">&emsp; Docker is an open-source platform used to build, ship, and run applications within containers. Containers are lightweight, portable, and self-contained environments that can run applications on any platform or operating system without requiring additional setup or configuration.</p>
