@@ -1,9 +1,14 @@
 
+<div align="center"><image src="https://user-images.githubusercontent.com/74382074/225942034-7263a731-9833-40a7-aec1-a8b42de01948.png" width="220px"></image></div>
+
+
 
 <h1 align="center" id="head"><b>DOCKER REPOSITORY<b></h1>
 
 <p align="center"><b>STUDY ABOUT DOCKER AND ITS APPLICATIONS</b></p>
 
+<br>
+<br>
 <br>
 
 <p align="justify">&emsp; Docker is an open-source platform used to build, ship, and run applications within containers. Containers are lightweight, portable, and self-contained environments that can run applications on any platform or operating system without requiring additional setup or configuration.</p>
@@ -16,94 +21,50 @@
 <h2 align="center"> S U M M A R Y </h2>
 <br>
 
-1. [Espailer ( Artigo )](#Espailer)
-2. [TreeMerge ( Artigo )](#TreeMerge)
-3. [PhyloFinder ( Artigo )](#PhyloFinder)
-4. [Bibliotecas](#Bibliotecas)
-    * [Dendropy](#Dendropy)
-    * [Espailer](#Espailer)
-    * [Tskit](#Tskit)
-5. [Ferramentas Úteis](#Ferramentas)
-    * [ITOL](#ITOL)
-6. [Equipe](#Equipe)    
-7. [Apêndice](#Apendice)
+1. [Introduction](#intro)
+1. [Libraryies](#libraries)
+1. [Tools](#Tools)
+1. [Team](#Team)    
+1. [Appendix](#Appendix)
+
+<br>
 
 <hr>
 <br>
 
-<h2 id="Espailer"><a href="">Lorem Ipsum</a></h2><br>
+<h2 id="intro"><a href="">INTRODUTCTION</a></h2><br>
 
 <h4>Useful links:</h4><br>
 
-- <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009960"> ARGs - Inferência bayesiana de gráficos de recombinação ancestral </a>
-- <a href="https://pubmed.ncbi.nlm.nih.gov/31975170/"> ARGs - Inferência de gráficos de recombinação ancestral usando ARGweaver </a>
-
+- <a href=""> linkl </a>
 
 <p align="justify">&emsp; </p><br>
+
+
+
+<h2 id="libraries">LIBRARIES</h2><br>
+
+<p align="justify">&emsp; In the project in question, we will use specific libraries that are fundamental for its execution. These libraries were carefully selected and their documentation and examples are available below to facilitate project development.</p><br>
+
+<p align="justify">&emsp; Be sure to consult the documentation and examples for each library to better understand how they work and how they can be used in your project. With the proper knowledge about these libraries, we can ensure a more efficient and successful project.</p><br>
+
+<h3 id="NAME"><a href="">NANE</a></h3><br>
+
+<p align="justify">&emsp; TEXT DESCRIPTION</p><br>
+
+<h4>Useful links:</h4><br>
+
+- <a href="">link</a><br>
+
+
 
 <!--------------------------------------------------------------------------->
 
-<h2 id="TreeMerge"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612878/">TreeMerge ( Artigo )</a></h2><br>
+<h2 id="Tools">USEFUL TOOLS</h2><br>
 
-<p align="justify">&emsp; </p><br>
-
-<h2 id="PhyloFinder"><a href="https://pubmed.ncbi.nlm.nih.gov/18366717/">PhyloFinder ( Artigo )</a></h2><br>
-
-<p align="justify">&emsp; </p><br>
-<!--------------------------------------------------------------------------->
-
-
-
-<h2 id="Bibliotecas">Bibliotecas</h2><br>
-
-<p align="justify">&emsp; No projeto em questão, utilizaremos bibliotecas específicas que são fundamentais para a sua execução. Essas bibliotecas foram selecionadas cuidadosamente e suas documentações e exemplos estão disponíveis abaixo para facilitar o desenvolvimento do projeto.</p><br>
-
-<p align="justify">&emsp; Certifique-se de consultar a documentação e exemplos de cada biblioteca para entender melhor como elas funcionam e como podem ser utilizadas no projeto. Com o conhecimento adequado sobre essas bibliotecas, podemos garantir um projeto mais eficiente e bem sucedido.</p><br>
-
-<h3 id="Dendropy"><a href="https://dendropy.org/">Dendropy</a></h3><br>
-
-<p align="justify">&emsp; DendroPy é uma biblioteca Python para computação filogenética. Ele fornece classes e funções para a simulação, processamento e manipulação de árvores filogenéticas e matrizes de caracteres, e suporta a leitura e escrita de dados filogenéticos em uma variedade de formatos, como NEXUS, NEWICK, NeXML, Phylip, FASTA, etc. scripts para executar algumas operações filogenéticas úteis, como conversão de dados e resumo da distribuição posterior da árvore, também são distribuídos e instalados como parte da biblioteca. O DendroPy pode, portanto, funcionar como uma biblioteca independente para filogenética, um componente de pipelines filoinformáticos multibibliotecas mais complexos ou como uma “cola” de script que monta e conduz tais pipelines.</p><br>
-
-<h4>Links importantes:</h4><br>
-
-- <a href="https://dendropy.org/primer/index.html">Dendropy doc</a><br>
-- <a href="https://dendropy.org/search.html?q=raxml">Dendropy Raxml</a><br>
-- <a href="https://github.com/JohKemPo/BioComp/blob/main/Codes/Dendropy.ipynb">Dendropy notebook</a><br>
-- <a href="https://github.com/jeetsukumaran/DendroPy">Dendropy examples repository</a><br>
-
-<p align="justify">&emsp; </p><br>
-
-<h3 id="Dendropy"><a href="https://espalier.readthedocs.io/en/latest/">Espailer</a></h3><br>
-
-<p align="justify">&emsp; Espalier reconcilia eficientemente árvores filogenéticas discordantes e reconstrói ARGs usando florestas de concordância máxima. Uma floresta de concordância entre um par de árvores é um conjunto de subárvores que são topologicamente concordantes entre ambas as árvores. A concordância topológica pode ser formalmente definida em termos de bipartições. Cada ramificação ou aresta em uma árvore define uma bipartição do conjunto de táxons X da árvore em dois conjuntos disjuntos.</p><br>
-
-<h4>Links importantes:</h4><br>
-
-- <a href="https://github.com/JohKemPo/BioComp/blob/main/Espalier.md">Espailer markdown</a><br>
-- <a href="https://github.com/JohKemPo/BioComp/blob/main/Codes/Espalier.ipynb">Espailer notebook</a><br>
-- <a href="https://espalier.readthedocs.io/en/latest/primer.html#computing-maximum-agreement-forests">Espailer primer</a><br>
-- <a href="https://github.com/davidrasm/Espalier/blob/master/examples/reconciliation.py">Espailer examples repository</a><br>
-
-
-<p align="justify">&emsp; </p><br>
-
-<h3 id="Dendropy"><a href="https://tskit.dev/tskit/docs/stable/python-api.html">Tskit</a></h3><br>
-
-<p align="justify">&emsp; kit de ferramentas de sequência de árvore. Sequências de árvores sucintas fornecem uma maneira altamente eficiente de armazenar um conjunto de sequências de DNA relacionadas, codificando sua história ancestral como um conjunto de árvores correlacionadas ao longo do genoma. A história evolutiva das sequências genéticas é muitas vezes referida tecnicamente como um Gráfico de Recombinação Ancestral (ARG); as sequências de árvores sucintas são totalmente compatíveis com esta formulação e, portanto, o tskit é uma plataforma poderosa para o processamento de ARGs.</p><br>
-
-<h4>Links importantes:</h4><br>
-
-- <a href="https://github.com/JohKemPo/BioComp/blob/main/Codes/Tskit.ipynb">Tskit notebook</a><br>
-
-
-<p align="justify">&emsp; </p><br>
-
-<!--------------------------------------------------------------------------->
-
-<h2 id="Ferramentas">Ferramentas Úteis</h2><br>
 <p align="justify">&emsp; Para garantir o sucesso do projeto, é importante utilizar as ferramentas adequadas. Nesse sentido, algumas ferramentas foram selecionadas e suas documentações e exemplos estão disponíveis abaixo:</p><br>
 
-<h3 id="ITOL"><a href="https://itol.embl.de/">ITOL - Interactive Tree Of Life</a></h3><br>
+<h3 id=""><a href="">NAME TOOL</a></h3><br>
 
 <p align="justify">&emsp; Interactive Tree Of Life é uma ferramenta on-line para exibição, anotação e gerenciamento de árvores filogenéticas e outras.Gerencie e visualize suas árvores diretamente no navegador e anote-as com vários conjuntos de dados.</p><br>
 
@@ -113,18 +74,18 @@
 
 <!--------------------------------------------------------------------------->
 
-<h2 id="Apendice">Apêndice</h2><br>
+<h2 id="Appendix">APPENDIX</h2><br>
 
-<h3><a href="https://thihenos.medium.com/o-que-%C3%A9-uma-pipeline-para-desenvolvimento-de-softwares-para-iniciantes-9fc26150178e">link</a></h3><br>
+<h3><a href="e">NAME</a></h3><br>
 
-<p align="justify">&emsp; A origem da palavra vem do inglês, que podemos entender como um duto ou tubo daqueles que podem passar oléo, água ou qualquer outro material liquido ou gasoso. O termo também vem sendo muito utilizado em indústria como um conjunto de instrução, ou uma esteira de processos ou comandos que alguém ou algo deve seguir sempre, por exemplo uma pipeline de vendas, onde tem sempre os passos e estratégias a serem seguidas.</p><br>
-<p align="justify">&emsp; No mundo da engenharia da computação, o termo pipelining é utilizado para descrever a estratégia onde o CPU procura a próxima instrução para executar, como se numa esteira de instruções já enviadas que são executadas, um comando após o outro.</p><br>
+
+<p align="justify">&emsp; TEXT DESCRIPTION</p><br>
 
 
 
 <!--------------------------------------------------------------------------->
 
-<h2 id="Equipe">Equipe</h2><br>
+<h2 id="Team">TEAM</h2><br>
 
 <div align="center">
 
