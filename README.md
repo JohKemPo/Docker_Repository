@@ -49,17 +49,17 @@
 
 <h4><b>Engine of containers administration </b></h4><br>
 
-<p align="justify">&emsp;  </p><br>
+<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
 
 <h4><b>Not a traditional virtualization system</b></h4><br>
 
-<p align="justify">&emsp;  </p><br>
+<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
 
-<h4><b>Not a traditional virtualization system</b></h4><br>
+<h4><b>Uses lxc services (linux containers)</b></h4><br>
 
-<p align="justify">&emsp;  </p><br>
+<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa. </p><br>
 
-<h2 id="libraries">LIBRARIES</h2><br>
+<h2 id="libraries"><b>LIBRARIES<b></h2><br>
 
 <p align="justify">&emsp; In the project in question, we will use specific libraries that are fundamental for its execution. These libraries were carefully selected and their documentation and examples are available below to facilitate project development.</p><br>
 
@@ -77,7 +77,7 @@
 
 <!--------------------------------------------------------------------------->
 
-<h2 id="Tools">USEFUL TOOLS</h2><br>
+<h2 id="Tools"><b>USEFUL TOOLS</b></h2><br>
 
 <p align="justify">&emsp; Para garantir o sucesso do projeto, é importante utilizar as ferramentas adequadas. Nesse sentido, algumas ferramentas foram selecionadas e suas documentações e exemplos estão disponíveis abaixo:</p><br>
 
@@ -91,7 +91,7 @@
 
 <!--------------------------------------------------------------------------->
 
-<h2 id="Appendix">APPENDIX</h2><br>
+<h2 id="Appendix"><b>APPENDIX</b></h2><br>
 
 <h3><a href="e">NAME</a></h3><br>
 
@@ -102,7 +102,7 @@
 
 <!--------------------------------------------------------------------------->
 
-<h2 id="Team">TEAM</h2><br>
+<h2 id="Team"><b>TEAM</b></h2><br>
 
 <div align="center">
 
