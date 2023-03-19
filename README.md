@@ -22,6 +22,7 @@
 <br>
 
 1. [Introduction](#intro)
+    1. [What's Docker](#WhatIsDocker)
 1. [Libraryies](#libraries)
 1. [Tools](#Tools)
 1. [Team](#Team)    
@@ -32,15 +33,31 @@
 <hr>
 <br>
 
-<h2 id="intro"><a href="">INTRODUTCTION</a></h2><br>
+<h2 id="intro"><b>INTRODUTCTION</b></h2><br>
 
-<h4>Useful links:</h4><br>
+<h3>Useful links:</h4><br>
 
-- <a href=""> linkl </a>
+- <a href="https://docs.docker.com/get-started/"> Overview </a><br>
+- <a href="https://docs.docker.com/reference/"> Docmentation </a><br>
 
-<p align="justify">&emsp; </p><br>
+<br>
+<h3 id="WhatIsDocker"><b>What is Docker?</b></h3><br>
 
+<h4><b>Not a traditional virtualization system</b></h4><br>
 
+<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
+
+<h4><b>Engine of containers administration </b></h4><br>
+
+<p align="justify">&emsp;  </p><br>
+
+<h4><b>Not a traditional virtualization system</b></h4><br>
+
+<p align="justify">&emsp;  </p><br>
+
+<h4><b>Not a traditional virtualization system</b></h4><br>
+
+<p align="justify">&emsp;  </p><br>
 
 <h2 id="libraries">LIBRARIES</h2><br>
 
