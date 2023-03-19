@@ -46,29 +46,21 @@
 
 <h2 id="intro"><b>INTRODUTCTION</b></h2><br>
 
-<h3>Useful links:</h4><br>
+<h3><b>Useful links:</b></h3><br>
 
 - <a href="https://docs.docker.com/get-started/"> Overview </a><br>
 - <a href="https://docs.docker.com/reference/"> Docmentation </a><br>
 
 <br>
-<h3 id="WhatIsDocker"><b>What is Docker?</b></h3><br>
+<h3 id="WhatIsDocker"><b>WHAT IS DOCKER?</b></h3><br>
 
-<h4><b>Not a traditional virtualization system</b></h4><br>
+<p align="justify">&emsp;  <b>Not a traditional virtualization system</b> Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
 
-<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
+<p align="justify">&emsp;  <b>Engine of containers administration </b> não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
 
-<h4><b>Engine of containers administration </b></h4><br>
+<p align="justify">&emsp;  <b>Not a traditional virtualization system</b> Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
 
-<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
-
-<h4><b>Not a traditional virtualization system</b></h4><br>
-
-<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
-
-<h4><b>Uses lxc services (linux containers)</b></h4><br>
-
-<p align="justify">&emsp;  Não é uma técnologia de máquina virtual, onde a máquina é completa. </p><br>
+<p align="justify">&emsp; <b>Uses lxc services (linux containers)</b> Não é uma técnologia de máquina virtual, onde a máquina é completa. </p><br>
 
 <h2 id="libraries"><b>LIBRARIES<b></h2><br>
 
@@ -76,13 +68,15 @@
 
 <p align="justify">&emsp; Be sure to consult the documentation and examples for each library to better understand how they work and how they can be used in your project. With the proper knowledge about these libraries, we can ensure a more efficient and successful project.</p><br>
 
+<h3><b>Useful links:</b></h3><br>
+
+- <a href="">link</a><br>
+
 <h3 id="NAME"><a href="">NANE</a></h3><br>
 
 <p align="justify">&emsp; TEXT DESCRIPTION</p><br>
 
-<h4>Useful links:</h4><br>
 
-- <a href="">link</a><br>
 
 
 
