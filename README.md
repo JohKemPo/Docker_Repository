@@ -1,4 +1,15 @@
 
+<style>
+    h1, h2, h3, h4{
+        font-size: 1.3em;
+        text-transform: uppercase;
+    }
+    h1{
+        font-size: 2.3em;
+
+    }
+</style>
+
 <div align="center"><image src="https://user-images.githubusercontent.com/74382074/225942034-7263a731-9833-40a7-aec1-a8b42de01948.png" width="220px"></image></div>
 
 
@@ -11,9 +22,9 @@
 <br>
 <br>
 
-<p align="justify">&emsp; Docker is an open-source platform used to build, ship, and run applications within containers. Containers are lightweight, portable, and self-contained environments that can run applications on any platform or operating system without requiring additional setup or configuration.</p>
-<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p>
-<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p>
+<p align="justify">&emsp; Docker is an open-source platform used to build, ship, and run applications within containers. Containers are lightweight, portable, and self-contained environments that can run applications on any platform or operating system without requiring additional setup or configuration.</p><br>
+<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p><br>
+<p align="justify">&emsp; Docker allows developers to package an application and all its dependencies into a single container that can be deployed on any platform, making it easier to move and manage applications across different environments. Docker also enables multiple containers to run on a single host, allowing for better resource utilization and scalability.</p><br>
 <br>
 <br>
 <br>
