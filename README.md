@@ -1,5 +1,5 @@
 
-<style>
+<!-- <style>
     h1, h2, h3, h4{
         font-size: 1.3em;
         text-transform: uppercase;
@@ -8,7 +8,7 @@
         font-size: 2.3em;
 
     }
-</style>
+</style> -->
 
 <div align="center"><image src="https://user-images.githubusercontent.com/74382074/225942034-7263a731-9833-40a7-aec1-a8b42de01948.png" width="220px"></image></div>
 
