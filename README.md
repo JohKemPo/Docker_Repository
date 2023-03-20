@@ -16,10 +16,7 @@
 
 <h1 align="center" id="head"><b>DOCKER REPOSITORY<b></h1>
 
-<p align="center"><b>STUDY ABOUT DOCKER AND ITS APPLICATIONS</b></p>
-
-<br>
-<br>
+<p align="center"><b> - STUDY ABOUT DOCKER AND ITS APPLICATIONS -</b></p>
 <br>
 
 <p align="justify">&emsp; Docker is an open-source platform used to build, ship, and run applications within containers. Containers are lightweight, portable, and self-contained environments that can run applications on any platform or operating system without requiring additional setup or configuration.</p><br>
@@ -52,15 +49,15 @@
 - <a href="https://docs.docker.com/reference/"> Docmentation </a><br>
 
 <br>
-<h3 id="WhatIsDocker"><b>WHAT IS DOCKER?</b></h3><br>
+<!-- <h3 id="WhatIsDocker"><b>WHAT IS DOCKER?</b></h3><br> -->
 
 <p align="justify">&emsp;  <b>Not a traditional virtualization system</b> Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
 
-<p align="justify">&emsp;  <b>Engine of containers administration </b> não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
+<p align="justify">&emsp;  <b>Engine of containers administration </b> servilo de administra;áo desses containers, processos isolados do sistema host, incluido um sistema de arquivos isolados. A ideia do container é ter um espaço controlado isolado de todo o sistema. O ponto possitivo do uso de docker é que em comparaçao com a VM o docker usa o kernel e alguns binários, ocupando e consumindo muito menos memoris.</p><br>
 
-<p align="justify">&emsp;  <b>Not a traditional virtualization system</b> Não é uma técnologia de máquina virtual, onde a máquina é completa.</p><br>
+<p align="justify">&emsp; <b>Uses lxc services (linux containers)</b> contianer usa recusso da maquina host, ou seja o container deve estar baseado no mesmo kernel do host. </p><br>
 
-<p align="justify">&emsp; <b>Uses lxc services (linux containers)</b> Não é uma técnologia de máquina virtual, onde a máquina é completa. </p><br>
+
 
 <h2 id="libraries"><b>LIBRARIES<b></h2><br>
 
