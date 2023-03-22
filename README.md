@@ -58,6 +58,9 @@
 <p align="justify">&emsp; <b>Uses lxc services (linux containers)</b> contianer usa recusso da maquina host, ou seja o container deve estar baseado no mesmo kernel do host. </p><br>
 
 
+<h3><b>RUN COMMAND</b></h3><br>
+
+<p align="justify">&emsp; O comando RUN é  a concatenação de 4 comandos ( PULL, CREATE, START,EXEC ) </p><br>
 
 <h2 id="libraries"><b>LIBRARIES<b></h2><br>
 
